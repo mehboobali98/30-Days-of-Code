@@ -2,6 +2,8 @@
 
 The repository contains solutions to the 30 Days of Code challenge on HackerRank. I started it mainly to practice Python for coding interviews.
 
+# Directory Structure
+
 <pre>
 📦30-Days-of-Code
  ┣ 📜Day 0.py
