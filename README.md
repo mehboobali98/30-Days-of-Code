@@ -25,3 +25,7 @@ The repository contains solutions to the 30 Days of Code challenge on HackerRank
  </pre>
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+
+[![GitHub forks](https://img.shields.io/github/forks/mehboobali98/30-Days-of-Code.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/mehboobali98/30-Days-of-Code)
+
+[![GitHub stars](https://img.shields.io/github/stars/mehboobali98/30-Days-of-Code.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/mehboobali98/30-Days-of-Code)
